@@ -13,7 +13,7 @@ body {
 }
 
 #page-wraper {
-    background: url(/assets/images/Black-Background-Picture.png) no-repeat center center fixed;
+    background: no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -42,7 +42,7 @@ a:hover {
 p {
     font-size: 16px;
     line-height: 24px;
-    color: rgb(7, 1, 1);
+    color: rgb(255, 255, 255);
 }
 
 h4 {
