@@ -2963,8 +2963,8 @@
 	Navigation.Defaults = {
 		nav: false,
 		navText: [
-			'<span aria-label="' + 'Previous' + '">&#x2039;</span>',
-			'<span aria-label="' + 'Next' + '">&#x203a;</span>'
+			'<p aria-label="' + 'Previous' + '">&#x2039;</p>',
+			'<p aria-label="' + 'Next' + '">&#x203a;</p>'
 		],
 		navSpeed: false,
 		navElement: 'button type="button" role="presentation"',
@@ -3015,7 +3015,7 @@
 		if (!settings.dotsData) {
 			this._templates = [ $('<button role="button">')
 				.addClass(settings.dotClass)
-				.append($('<span>'))
+				.append($('<p>'))
 				.prop('outerHTML') ];
 		}
 

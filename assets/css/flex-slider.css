@@ -34,7 +34,7 @@
   padding: 0;
   list-style: none;
 }
-.flex-pauseplay span {
+.flex-pauseplay p {
   text-transform: capitalize;
 }
 /* ====================================================================================================================
