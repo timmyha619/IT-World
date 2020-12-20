@@ -302,7 +302,7 @@ html {
 .section-heading h2 {
     font-size: 32px;
     font-weight: 700;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 .section-heading .line-dec {
@@ -315,7 +315,7 @@ html {
 .section-heading span {
     margin-top: 5px;
     font-size: 16px;
-    color: #fff;
+    color: rgb(0, 0, 0);
     letter-spacing: 0.5px;
 }
 
