@@ -7767,8 +7767,8 @@ jQuery.each( [
 	"maxLength",
 	"cellSpacing",
 	"cellPadding",
-	"rowp",
-	"colp",
+	"rowSpan",
+	"colSpan",
 	"useMap",
 	"frameBorder",
 	"contentEditable"
